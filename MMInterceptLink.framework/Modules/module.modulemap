@@ -1,0 +1,6 @@
+framework module MMInterceptLink {
+  umbrella header "MMInterceptLink.h"
+
+  export *
+  module * { export * }
+}
